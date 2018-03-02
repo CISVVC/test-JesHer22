@@ -1,3 +1,12 @@
+'''
+Devoloper: Jesus Herrera
+File Name: main.py
+
+
+Description: short description of what this script does.
+
+email address: herreraj112611@student.vvc.edu
+'''
 import math
 number1_ = 1
 number2_ = 2
